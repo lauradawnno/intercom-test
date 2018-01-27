@@ -9,6 +9,6 @@ The project prints the list of Customers in the given file within a 100 km radiu
    
 ## Build and Run
 
-Run _mvn install_ this will build the project, download the dependencies and run the tests. After running this you will find the executable JAR in the _target_ folder.
+Running _mvn install_ on the root folder will build the project, download the dependencies and run the tests. After running this you will find the executable JAR in the _target_ folder.
 
 Run the project with _java -jar customer-test-0.0.1-SNAPSHOT.jar_
