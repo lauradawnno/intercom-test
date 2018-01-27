@@ -4,8 +4,8 @@ The project prints the list of Customers in the given file within a 100 km radiu
 
 ## Dependencies
 
-*JDK 8
-*Maven
+* JDK 8
+* Maven
    
 ## Build and Run
 
